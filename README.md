@@ -1,6 +1,6 @@
 # 2023-Internships
 
-이 레포지토리는 [Waterloo's Computer Science Club :computer:](https://csclub.uwaterloo.ca/)에서 포크되어 번역되고, 한국 인턴십 정보가 추가었습니다.
+이 레포지토리는 [Waterloo's Computer Science Club :computer:의 2023-internships](https://github.com/uwcsc/2023-internships/)에서 포크되어 번역되고, 한국 인턴십 정보가 추가었습니다.
 
 아래에 포함된 정보는 2023년에 다양한 컴퓨터 과학 및 소프트웨어 공학 관련 인턴십에 대한 링크 및 리소스를 포함합니다 :man_technologist: :woman_technologist: (Winter '23, Spring '23 & Fall '23)
 
